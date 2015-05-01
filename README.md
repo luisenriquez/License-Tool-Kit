@@ -1,7 +1,8 @@
-# License-Tool-Kit
+# License-Tool-Kit-v0
 THIS IS A PROTOTYPE OF POLYMORPHIC  LICENSES!!   
 
-WARNING: This software is under development. Use it only for TESTING purposes
+WARNING: This software is under development. Use it only for TESTING purposes. 
+PURPOSE: To customize Generic-purpose Public licenses.
 
 INSTRUCTIONS:
 
