@@ -19,7 +19,7 @@ Which commercial uses must pay retribution
 Do you include any addtional terms
 
 
-3) READY!!  Your license and hashes will be inside the pdf-output folder.
+3) READY!!  Your license and hashes will be inside the license-output folder.
 
 
 
