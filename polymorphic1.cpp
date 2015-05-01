@@ -34,7 +34,7 @@ cout<<"\% where should they send the money(Paypal, BTC):" <<endl;
 getline (cin, send_it);
 cout<< "Send it to: " <<send_it <<"\\\\" <<endl;
 
-cout<<"\% Time o permission?: " <<endl;
+cout<<"\% Time of permission?: " <<endl;
 getline (cin, time);
 cout<< "Time of permission for commercial uses: " <<time <<"\\\\" <<endl;
 
