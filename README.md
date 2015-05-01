@@ -1,5 +1,7 @@
 # License-Tool-Kit
-THIS IS A PROTOTYPE OF POLYMORPHIC  LICENSES!!  
+THIS IS A PROTOTYPE OF POLYMORPHIC  LICENSES!!   
+
+WARNING: This software is under development. Use it only for TESTING purposes
 
 INSTRUCTIONS:
 
