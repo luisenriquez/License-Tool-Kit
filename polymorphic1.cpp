@@ -11,7 +11,7 @@ using namespace std;
 int main () {
 
 int menu;
-string  holder; string date; string compensation; string send_it; string time ; string commercial_uses; string fair_terms; 
+string  holder; string work; string date; string compensation; string send_it; string time ; string commercial_uses; string fair_terms; 
 
 
 cout<< "\\documentclass[12pt]{article}" <<endl;
@@ -21,6 +21,10 @@ cout<< "\\begin{document}" <<endl;
 cout<<"\% Copyright holder's name: " <<endl;
 getline (cin, holder);
 cout<< "\\noindent Copyright holder: " <<holder <<"\\\\" <<endl;
+
+cout<<"\% Protected work: " <<endl;
+getline (cin, work);
+cout<< "\\noindent Protected work: " <<work <<"\\\\" <<endl;
 
 cout<<"\% Date of publication:" <<endl;
 getline (cin, date);
